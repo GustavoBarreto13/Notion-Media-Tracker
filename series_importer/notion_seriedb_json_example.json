@@ -1,0 +1,60 @@
+﻿{
+    "source": {
+        "type": "automation",
+        "automation_id": "199f090e-a3ca-8003-ae45-004d31213201",
+        "action_id": "199f090e-a3ca-8045-a717-005a83c4f3ab",
+        "event_id": "fad0c1ec-e25a-41f1-b39c-f8fc60ad7f4e",
+        "attempt": 1
+    },
+    "data": {
+        "object": "page",
+        "id": "197f090e-a3ca-80ee-b921-cf9484e39773",
+        "created_time": "2025-02-11T11:52:00.000Z",
+        "last_edited_time": "2025-02-12T00:54:00.000Z",
+        "created_by": {
+            "object": "user",
+            "id": "f3ccd917-da98-46a7-aa81-0961ba32f196"
+        },
+        "last_edited_by": {
+            "object": "user",
+            "id": "f3ccd917-da98-46a7-aa81-0961ba32f196"
+        },
+        "cover": null,
+        "icon": null,
+        "parent": {
+            "type": "database_id",
+            "database_id": "196f090e-a3ca-80d7-adae-ee1e3da03edf"
+        },
+        "archived": false,
+        "in_trash": false,
+        "properties": {
+            "Name": {
+                "id": "title",
+                "type": "title",
+                "title": [
+                    {
+                        "type": "text",
+                        "text": {
+                            "content": "Breaking Bad",
+                            "link": null
+                        },
+                        "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                        },
+                        "plain_text": "Breaking Bad",
+                        "href": null
+                    }
+                ]
+            }
+        },
+        "url": "https://www.notion.so/Breaking-Bad-197f090ea3ca80eeb921cf9484e39773",
+        "public_url": null,
+        "request_id": "423cb73c-468a-479a-91c2-9d8c246bf98d"
+    }
+}
+
