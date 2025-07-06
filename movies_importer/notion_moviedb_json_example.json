@@ -1,59 +1,61 @@
-﻿{
-    "source": {
-        "type": "automation",
-        "automation_id": "198f090e-a3ca-80dd-bd0d-004d2bb52610",
-        "action_id": "198f090e-a3ca-8038-aa8c-005aeed76799",
-        "event_id": "c5c8f47a-839e-4696-8b88-8cd37c679fad",
-        "attempt": 1
-    },
-    "data": {
-        "object": "page",
-        "id": "198f090e-a3ca-8098-8585-de0ff176f735",
-        "created_time": "2025-02-12T19:02:00.000Z",
-        "last_edited_time": "2025-02-12T19:27:00.000Z",
-        "created_by": {
-            "object": "user",
-            "id": "f3ccd917-da98-46a7-aa81-0961ba32f196"
+﻿[
+    {
+        "source": {
+            "type": "automation",
+            "automation_id": "196f090e-a3ca-804a-86c7-004d4840c57c",
+            "action_id": "196f090e-a3ca-80c7-a460-005ac4f91308",
+            "event_id": "08502746-6d0d-4228-b2c1-70b33e35ff9f",
+            "attempt": 1
         },
-        "last_edited_by": {
-            "object": "user",
-            "id": "f3ccd917-da98-46a7-aa81-0961ba32f196"
-        },
-        "cover": null,
-        "icon": null,
-        "parent": {
-            "type": "database_id",
-            "database_id": "18cf090e-a3ca-804a-9c9f-d33eb186973d"
-        },
-        "archived": false,
-        "in_trash": false,
-        "properties": {
-            "Name": {
-                "id": "title",
-                "type": "title",
-                "title": [
-                    {
-                        "type": "text",
-                        "text": {
-                            "content": "Flow",
-                            "link": null
-                        },
-                        "annotations": {
-                            "bold": false,
-                            "italic": false,
-                            "strikethrough": false,
-                            "underline": false,
-                            "code": false,
-                            "color": "default"
-                        },
-                        "plain_text": "Flow",
-                        "href": null
-                    }
-                ]
-            }
-        },
-        "url": "https://www.notion.so/Flow-198f090ea3ca80988585de0ff176f735",
-        "public_url": null,
-        "request_id": "19801ddb-c59c-4203-8d39-bcb2097d61df"
+        "data": {
+            "object": "page",
+            "id": "227f090e-a3ca-8090-9c78-ebe9e9ff2368",
+            "created_time": "2025-07-05T23:50:00.000Z",
+            "last_edited_time": "2025-07-05T23:51:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "f3ccd917-da98-46a7-aa81-0961ba32f196"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "f3ccd917-da98-46a7-aa81-0961ba32f196"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "database_id",
+                "database_id": "18cf090e-a3ca-804a-9c9f-d33eb186973d"
+            },
+            "archived": false,
+            "in_trash": false,
+            "properties": {
+                "Name": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "KPop Demon Hunters",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": true,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "KPop Demon Hunters",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/KPop-Demon-Hunters-227f090ea3ca80909c78ebe9e9ff2368",
+            "public_url": null,
+            "request_id": "25770e8b-152c-4fcb-a615-11ea0f99a588"
+        }
     }
-}
+]
