@@ -1,60 +1,84 @@
-﻿{
-    "source": {
-        "type": "automation",
-        "automation_id": "199f090e-a3ca-8003-ae45-004d31213201",
-        "action_id": "199f090e-a3ca-8045-a717-005a83c4f3ab",
-        "event_id": "fad0c1ec-e25a-41f1-b39c-f8fc60ad7f4e",
-        "attempt": 1
-    },
-    "data": {
-        "object": "page",
-        "id": "197f090e-a3ca-80ee-b921-cf9484e39773",
-        "created_time": "2025-02-11T11:52:00.000Z",
-        "last_edited_time": "2025-02-12T00:54:00.000Z",
-        "created_by": {
-            "object": "user",
-            "id": "f3ccd917-da98-46a7-aa81-0961ba32f196"
+﻿[
+    {
+        "source": {
+            "type": "automation",
+            "automation_id": "198f090e-a3ca-80e2-9f93-004da33ac855",
+            "action_id": "198f090e-a3ca-8017-983c-005a1c2c5eac",
+            "event_id": "c5dbc511-dff3-4513-8bca-29112493b4e8",
+            "attempt": 1
         },
-        "last_edited_by": {
-            "object": "user",
-            "id": "f3ccd917-da98-46a7-aa81-0961ba32f196"
-        },
-        "cover": null,
-        "icon": null,
-        "parent": {
-            "type": "database_id",
-            "database_id": "196f090e-a3ca-80d7-adae-ee1e3da03edf"
-        },
-        "archived": false,
-        "in_trash": false,
-        "properties": {
-            "Name": {
-                "id": "title",
-                "type": "title",
-                "title": [
-                    {
-                        "type": "text",
-                        "text": {
-                            "content": "Breaking Bad",
-                            "link": null
-                        },
-                        "annotations": {
-                            "bold": false,
-                            "italic": false,
-                            "strikethrough": false,
-                            "underline": false,
-                            "code": false,
-                            "color": "default"
-                        },
-                        "plain_text": "Breaking Bad",
-                        "href": null
-                    }
-                ]
-            }
-        },
-        "url": "https://www.notion.so/Breaking-Bad-197f090ea3ca80eeb921cf9484e39773",
-        "public_url": null,
-        "request_id": "423cb73c-468a-479a-91c2-9d8c246bf98d"
+        "data": {
+            "object": "page",
+            "id": "199f090e-a3ca-808c-88a0-e4d52afc77d9",
+            "created_time": "2025-02-13T18:02:00.000Z",
+            "last_edited_time": "2025-07-06T01:20:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "f3ccd917-da98-46a7-aa81-0961ba32f196"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "f3ccd917-da98-46a7-aa81-0961ba32f196"
+            },
+            "cover": null,
+            "icon": null,
+            "parent": {
+                "type": "database_id",
+                "database_id": "196f090e-a3ca-80d7-adae-ee1e3da03edf"
+            },
+            "archived": false,
+            "in_trash": false,
+            "properties": {
+                "Name": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "The Boys",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "The Boys",
+                            "href": null
+                        }
+                    ]
+                },
+                "Year": {
+                    "id": "Zw%3Dm",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "2005",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "2019",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/Supernatural-199f090ea3ca808c88a0e4d52afc77d9",
+            "public_url": null,
+            "request_id": "c3e8e59c-454a-4514-91aa-4815da9ba835"
+        }
     }
-}
-
+]

@@ -1,32 +1,6 @@
-import os
-
-from dotenv import load_dotenv
-
-current_dir = os.path.dirname(os.path.abspath(__file__))
-parent_dir = os.path.dirname(current_dir)
-env_file_path = os.path.join(parent_dir, ".env")
-
-load_dotenv(env_file_path)
-
-TOKEN_V3 = os.getenv("TOKEN_V3", "")
-DATABASE_ID = os.getenv("DATABASE_ID", "")
-DATABASE_ShOWS_ID = os.getenv("DATABASE_ShOWS_ID", "")
-
-if not TOKEN_V3 or not DATABASE_ID:
-    raise ValueError("Please add your TOKEN_V3 and DATABASE_ID to your .env file.")
-
-TMDB_API_KEY = os.getenv("TMDB_API_KEY", "")
-if not TMDB_API_KEY:
-    raise ValueError("Please add your TMDB_API_KEY to your .env file.")
-
-OMDB_API_KEY = os.getenv("OMDB_API_KEY", "")
-if not OMDB_API_KEY:
-    raise ValueError("Please add your OMDB_API_KEY to your .env file.")
-
-TRAKT_CLIENT_ID = os.getenv("TRAKT_CLIENT_ID", "")
-if not TRAKT_CLIENT_ID:
-    raise ValueError("Please add your TRAKT_CLIENT_ID to your .env file.")
-
-# TODO(michaelfromyeg): implement; for now, it's OK since we don't import duplicates
-# get all data (true) or data after last sync (false)
-ALL_DATA = False
+﻿TOKEN_V3="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"
+DATABASE_ID="18cf090ea3ca804a9c9fd33eb186973d"
+DATABASE_ShOWS_ID="196f090ea3ca80d7adaeee1e3da03edf"
+TMDB_API_KEY="eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIwZTJmMDZiNjk1ZmVkODAzYTA4NDczYzcxZDYxNTI2MyIsIm5iZiI6MTczODI5MTI4My45ODg5OTk4LCJzdWIiOiI2NzljMzg1MzRlOWE0NTk1ZWNiZGQ0MjQiLCJzY29wZXMiOlsiYXBpX3JlYWQiXSwidmVyc2lvbiI6MX0.ouKbcPjAWAHHS4lry1nHeAg0JG_-LfbZmS7_OuRIYVM"
+OMDB_API_KEY="c6adf18e"
+TRAKT_CLIENT_ID="74ee00c4f30e2920d40fe9a5f3c3e7da75af54ce25318f167866547c1cd94fae"
