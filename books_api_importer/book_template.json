@@ -1,0 +1,95 @@
+﻿[
+    {
+        "source": {
+            "type": "automation",
+            "automation_id": "1cdf090e-a3ca-80b3-b15b-004d70d61017",
+            "action_id": "1cdf090e-a3ca-8039-8903-005a93bbbea4",
+            "event_id": "aed97425-6bed-4af0-b63d-96460055d2d4",
+            "user_id": "f3ccd917-da98-46a7-aa81-0961ba32f196",
+            "attempt": 1
+        },
+        "data": {
+            "object": "page",
+            "id": "17ef090e-a3ca-8098-b253-ec15ea07446e",
+            "created_time": "2025-01-17T20:01:00.000Z",
+            "last_edited_time": "2025-02-04T22:00:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "f3ccd917-da98-46a7-aa81-0961ba32f196"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "f3ccd917-da98-46a7-aa81-0961ba32f196"
+            },
+            "cover": {
+                "type": "external",
+                "external": {
+                    "url": "https://m.media-amazon.com/images/I/71jrp43TCcL._AC_UF1000,1000_QL80_.jpg"
+                }
+            },
+            "icon": {
+                "type": "external",
+                "external": {
+                    "url": "https://www.notion.so/icons/book_blue.svg"
+                }
+            },
+            "parent": {
+                "type": "database_id",
+                "database_id": "17ef090e-a3ca-8134-99e6-d777d26b9b88"
+            },
+            "archived": false,
+            "in_trash": false,
+            "properties": {
+                "Name": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "Pessoas Normais",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "Intermezzo",
+                            "href": null
+                        }
+                    ]
+                },
+                "Author": {
+                    "id": "ydsZ",
+                    "type": "rich_text",
+                    "rich_text": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "Sally Rooney",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "Sally Rooney",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/Pessoas-Normais-17ef090ea3ca8098b253ec15ea07446e",
+            "public_url": null,
+            "request_id": "1053d4c1-1be9-454d-8306-3682066d655d"
+        }
+    }
+]
